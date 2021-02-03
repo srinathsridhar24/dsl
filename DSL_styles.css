@@ -1,0 +1,118 @@
+/*body{
+	background-image: url("Labroom_new.jpg");
+	background-size: cover;
+	background-position: center;
+	font-family: 'Lato', sans-serif;
+}
+
+html {
+	height: 100%;
+}
+#content {
+	text-align: center;
+	padding-top: 10%;
+}
+
+.jumbotron {
+	background: url(D:/Web_Development_Udemy/11_Pattern_Project/Starter/imgs/header.jpeg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+h1, h3{
+	color: white;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+
+
+h1{
+	font-weight: bold;
+	font-size: 5em;
+}
+*/
+
+html {
+	height: 100%;
+  	scroll-behavior: smooth;
+}
+
+body{
+	background-size: cover;
+	background-position: center;
+	font-family: 'Lato', sans-serif;
+	padding-top: 70px;
+}
+
+.jumbotron {
+	background: url("silicon3.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+/*	margin-top: 10px;*/
+}
+
+h1, h3{
+	font-weight: bold;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+h1{
+	font-weight: bold;
+	font-size: 5em;
+}
+/*h3{
+	
+	font-weight: bold;
+	font-size: : 3.5em;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+
+}
+*/
+hr {
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.8);
+}
+
+
+#content{
+	color:#bfbfbf;
+}
+
+#tag{
+	font-weight: bold;
+	font-size: : 3.5em;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+}
+
+.post{
+	text-align: justify;
+	/*width: 50%;*/
+	margin: auto;
+}
+
+#about{
+	font-weight: bold;
+	text-shadow: 0px 0px 0px rgba(0,0,0,0.4),
+				 0px 0px 0px rgba(0,0,0,0.1),
+				 0px 0px 0px rgba(0,0,0,0.1);
+
+}
+
+#hr2{
+	margin-top: 0px;
+	margin-bottom: 10px;
+	width: 200px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.8);
+}

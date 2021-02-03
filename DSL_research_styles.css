@@ -1,0 +1,71 @@
+.jumbotron {
+	background: url("research5.jpg");
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding-top: 5%;
+    padding-bottom: 5%;
+    color: #2c3e50;
+/*	margin-top: 10px;*/
+}
+
+body{
+	background-size: cover;
+	/*background-position: center;*/
+	font-family: 'Lato', sans-serif;
+	padding-top: 70px;
+}
+
+
+#research {
+	text-align: center;
+	font-weight: bold;
+	text-shadow: 0px 0px 0px rgba(0,0,0,0.4),
+				 0px 0px 0px rgba(0,0,0,0.1),
+				 0px 0px 0px rgba(0,0,0,0.1);
+}
+
+#hr2 {
+	margin-top: 0px;
+	margin-bottom: 10px;
+	width: 50%;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.8);
+}
+
+#tagline{
+	padding-left: 11%;
+}
+
+#hr3 {
+	margin-top: 0px;
+	margin-bottom: 10px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.8);
+	text-align: left;
+	margin-right: 84%;
+}
+
+.heading {
+	font-size: 1.2em;
+	font-weight: 550;
+	color: #010f36
+}
+
+#sponsor1{
+	font-size: 1em;
+	font-weight: 700;
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
+
+#sponsor2{
+	font-size: 1em;
+	font-weight: 700;
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
+
+
+
+
